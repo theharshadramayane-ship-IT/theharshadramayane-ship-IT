@@ -161,12 +161,12 @@ I'm designing OrderGuard around a multi-language architecture that combines Go o
 
 **Technology direction**
 
-- Go — Backend orchestration and service interfaces.
-- Rust — Deterministic safety logic.
-- PostgreSQL — Persistent state and transactional guarantees.
-- React / TypeScript — Client interface direction.
-- REST APIs — Communication and integration.
-- Rust-Go interoperability — Library integration through a C-compatible FFI boundary.
+- Go - Backend orchestration and service interfaces.
+- Rust - Deterministic safety logic.
+- PostgreSQL - Persistent state and transactional guarantees.
+- React / TypeScript - Client interface direction.
+- REST APIs - Communication and integration.
+- Rust-Go interoperability - Library integration through a C-compatible FFI boundary.
 
 **Engineering problems I'm exploring:**
 
@@ -215,7 +215,7 @@ I'm designing OrderGuard around a multi-language architecture that combines Go o
 ## 07 / PROFESSIONAL EXPERIENCE
 
 **Sumago Infotech**
-- Full Stack Developer Intern — MERN Stack (6 Months)
+- Full Stack Developer Intern - MERN Stack (6 Months)
 - AWS Cloud Computing Intern
 
 **R3 Systems India Pvt. Ltd.**
@@ -225,7 +225,7 @@ I'm designing OrderGuard around a multi-language architecture that combines Go o
 - Data Science Intern
 
 **Wisdom Sprouts IT Training Hub**
-- Full Stack Developer Intern — Java Development
+- Full Stack Developer Intern -Java Development
 
 ---
 
@@ -242,20 +242,20 @@ Savitribai Phule Pune University
 
 ### Achievements
 
-- 🥈 Second Runner-Up — KBT Avinyathon 2026, State-Level Competition.
-- 🏆 First Position — Marathi Elocution, JIT Nashik, February 2026.
+- 🥈 Second Runner-Up - KBT Avinyathon 2026, State-Level Competition.
+- 🏆 First Position - Marathi Elocution, JIT Nashik, February 2026.
 
 ### Certifications & Learning
 
-- AWS Academy Cloud Architecting — 60 Hours
+- AWS Academy Cloud Architecting - 60 Hours
 - AWS Academy + AICTE EduSkills Cloud Virtual Internship
 - Zscaler Zero Trust Cloud Security Virtual Internship
 - Android Developer Virtual Internship
-- Altair/RapidMiner — Machine Learning
-- Altair/RapidMiner — Data Engineering
-- Altair/RapidMiner — Platform Administration
-- NPTEL — Programming, Data Structures and Algorithms
-- NPTEL — Database Management Systems
+- Altair/RapidMiner -Machine Learning
+- Altair/RapidMiner - Data Engineering
+- Altair/RapidMiner -Platform Administration
+- NPTEL -Programming, Data Structures and Algorithms
+- NPTEL - Database Management Systems
 
 ---
 
