@@ -1,82 +1,304 @@
-<!-- SECTION 1: Animated Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+The+Harshad+Ramayane+%F0%9F%91%8B;Aspiring+Software+Developer;MERN+Stack+%7C+Systems+%26+Backend;Architecting+High-Assurance+Infrastructure" alt="Typing SVG" />
-</div>
-
-<!-- SECTION 2: Dynamic Badges -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theharshadramayane-ship-IT&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/theharshadramayane-ship-IT?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Systems%20Engineering-ff69b4?style=for-the-badge" alt="Focus" />
-</div>
-
-<!-- SECTION 3: 3D Waving Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=30&fontAlignY=35&animation=twinkling" width="100%" />
-</div>
-
-<!-- SECTION 4: Professional Summary -->
-### 👨‍💻 Professional Summary
-I'm an Information Technology (IT) student graduating in 2027, passionate about software development, problem-solving, and building practical applications. I don't just build web apps; I am actively transitioning into a **Systems & Backend Engineer**. I enjoy exploring technologies, understanding how software works deep down, and improving my skills through consistent coding, architecture design, and hands-on projects.
-
----
-
-<!-- SECTION 5: Tech Stack (3D Grid) -->
-### 🛠️ Tech Stack & Tools
+# HARSHAD RAJU RAMAYANE
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,rust,go,postgres,ts,git,github,vscode,postman,docker&perline=8" alt="My Skills" />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+%26+Backend+Engineering;Systems+Programming+%7C+Rust+%26+Go;Database+Engineering+%7C+Distributed+Systems;DSA+in+JavaScript+%7C+OS+Internals;Building+Software+Beyond+the+Framework" alt="Engineering Focus" />
+
+**Information Technology Student | Class of 2027 | Nashik, India**
+
+[LinkedIn](https://www.linkedin.com/in/harshad-ramayane-34b48731b/) · [GitHub](https://github.com/theharshadramayane-ship-IT) · [Email](mailto:harshadramayane1398@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=theharshadramayane-ship-IT&style=for-the-badge&color=161B22&label=PROFILE+OBSERVERS" />
+<img src="https://img.shields.io/github/followers/theharshadramayane-ship-IT?style=for-the-badge&color=161B22&label=FOLLOWERS" />
+
 </div>
 
 ---
 
-<!-- SECTION 6: About Me (Split Layout) -->
-### 🚀 About Me
+## 01 / ENGINEERING MANIFESTO
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🎓 Education & Core</h4>
-      <ul>
-        <li><b>IT Student</b> | Class of 2027</li>
-        <li><b>MERN Stack</b> Full-Stack Developer</li>
-        <li><b>DSA:</b> Practicing in JavaScript</li>
-        <li><b>Backend:</b> Node.js, Express, Go</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>🦀 Systems & Rust Journey</h4>
-      <ul>
-        <li><b>Rust:</b> Ownership, Borrowing, Lifetimes</li>
-        <li><b>Go:</b> Concurrency, Goroutines</li>
-        <li><b>DB:</b> PostgreSQL, ACID Transactions</li>
-        <li><b>Arch:</b> Memory Safety, FFI Boundaries</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> **I am interested in the engineering decisions that make software reliable under pressure, not just the abstractions that make it easy to build.**
+
+I'm an Information Technology student focused on Full-Stack Development, Backend Engineering, Systems Programming and Database Engineering.
+
+My engineering interests span the complete software stack:
+
+- **Application Layer:** Designing full-stack applications, REST APIs and maintainable architectures.
+- **Backend Layer:** Understanding concurrency, service orchestration, reliability and API design.
+- **Systems Layer:** Exploring Rust, Go, memory management, operating systems and low-level execution.
+- **Data Layer:** Database architecture, transaction guarantees, indexing, query optimization and consistency.
+- **Algorithmic Layer:** Data Structures and Algorithms in JavaScript, complexity analysis and problem-solving.
+
+My objective is to develop the ability to reason about software from the application interface down to the operating system and data persistence layers.
 
 ---
 
-<!-- SECTION 7: Core Philosophy Alert -->
-> [!TIP]
-> **My goal is not just to learn Rust syntax, but to understand how to engineer reliable and efficient software with it.** I am currently building **OrderGuard**, a trading reliability system that uses Rust and Go to prevent financial loss from duplicate orders.
+## 02 / ENGINEERING DOMAINS
+
+| Domain | Technical Focus |
+|---|---|
+| Full-Stack Engineering | React.js, Node.js, Express.js, MongoDB, REST APIs |
+| Backend Engineering | Go, Node.js, API architecture, concurrency |
+| Systems Programming | Rust, memory safety, ownership, borrowing, FFI |
+| Database Engineering | PostgreSQL, MySQL, MongoDB, SQL, transactions |
+| Computer Science | OS concepts, DBMS, networking, process and memory management |
+| Algorithm Engineering | DSA in JavaScript, Big-O, arrays, stacks, algorithms |
+| Cloud & DevOps | AWS fundamentals, Docker, Git, GitHub |
 
 ---
 
-<!-- SECTION 8: 3D System Architecture -->
-### 🏗️ System Architecture (OrderGuard)
-I am designing an infrastructure that uses a **Go backend** to orchestrate workflows, a **Rust library** for deterministic safety rules, and **PostgreSQL** for durable, crash-safe data. 
+## 03 / TECHNOLOGY ECOSYSTEM
+
+### Full-Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bootstrap,mongodb,mysql&perline=9" />
+</p>
+
+**Focus:** Component architecture, frontend engineering, backend APIs, authentication, database integration and application security.
+
+### Systems & Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=rust,go,postgres,docker,linux&perline=9" />
+</p>
+
+**Focus:** Memory safety, ownership and borrowing, concurrency, goroutines, system interfaces, API reliability and database consistency.
+
+### Programming & Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,mysql,mongodb&perline=9" />
+</p>
+
+**Focus:** Programming fundamentals, SQL, database design, data analysis and algorithmic problem-solving.
+
+### Developer Toolchain
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws&perline=9" />
+</p>
+
+---
+
+## 04 / SYSTEMS KNOWLEDGE & COMPUTER SCIENCE
+
+I believe framework knowledge without computer science fundamentals creates an incomplete engineering foundation.
+
+My current learning and engineering focus includes:
+
+**Operating Systems**
+- Processes vs Threads
+- CPU Scheduling and Context Switching
+- Stack vs Heap Memory
+- Virtual Memory and Paging
+- Memory Allocation
+- System Calls and Kernel Fundamentals
+- File Systems and I/O
+- Synchronization and Deadlocks
+
+**Database Internals**
+- ACID Transactions
+- Indexing and Query Execution
+- B-Tree Fundamentals
+- Normalization and Data Modeling
+- Isolation Levels and Concurrency Control
+- Database Locking and Deadlocks
+- Durability and Crash Recovery
+
+**Networking & Backend**
+- HTTP/HTTPS and TCP/IP
+- REST API Design
+- Client-Server Architecture
+- Concurrency and Parallelism
+- Distributed Systems Fundamentals
+- Idempotency and Fault Tolerance
+
+**Algorithms & Problem Solving**
+- Data Structures and Algorithms using JavaScript
+- Time and Space Complexity
+- Arrays, Strings, Hash Maps and Stacks
+- Recursion, Trees, Graphs and Dynamic Programming
+- Algorithm Optimization and Edge-Case Analysis
+
+---
+
+## 05 / FLAGSHIP ENGINEERING PROJECT
+
+### ORDERGUARD — Trading Order Reliability Infrastructure
+
+**Engineering objective:** Prevent duplicate order execution and improve order-processing reliability through deterministic safety mechanisms.
+
+I'm designing OrderGuard around a multi-language architecture that combines Go orchestration with a Rust safety library and PostgreSQL-backed persistence.
 
 ```text
-[ Frontend (React/TS) ]
-         │  (REST + Idempotency Key)
-         ▼
-[ Go Backend (Orchestrator) ]
-         │
-         ├──> [ PostgreSQL (Hosted) ] ── Durable state & Idempotency
-         │
-         └──> [ Rust Safety Library (cgo) ]
-                  └── Deterministic Duplicate Detection
+                  CLIENT APPLICATION
+                         |
+                         | REST API
+                         | Idempotency Key
+                         v
+               +----------------------+
+               |     GO BACKEND       |
+               |   API Orchestration |
+               +----------------------+
+                         |
+              +----------+----------+
+              |                     |
+              v                     v
+     +----------------+    +--------------------+
+     |  POSTGRESQL    |    |   RUST LIBRARY      |
+     |                |    |                    |
+     | Durable State  |    | Deterministic      |
+     | Idempotency    |    | Safety Rules       |
+     | Transactions   |    | Duplicate Checks   |
+     +----------------+    +--------------------+
+              |                     |
+              +----------+----------+
+                         |
+                         v
+              ORDER SAFETY DECISION
+```
+
+**Technology direction**
+
+- Go — Backend orchestration and service interfaces.
+- Rust — Deterministic safety logic.
+- PostgreSQL — Persistent state and transactional guarantees.
+- React / TypeScript — Client interface direction.
+- REST APIs — Communication and integration.
+- Rust-Go interoperability — Library integration through a C-compatible FFI boundary.
+
+**Engineering problems I'm exploring:**
+
+1. How should an idempotency mechanism behave under concurrent requests?
+2. How can duplicate execution be prevented across retries?
+3. What transaction guarantees are required for reliable order processing?
+4. How should Rust and Go communicate across language boundaries?
+5. What happens when a process crashes between validation and persistence?
+6. How should the system behave under race conditions and partial failures?
+
+*Status: Engineering and development direction. Architecture and implementation details will evolve as the project progresses.*
+
+---
+
+## 06 / SELECTED DEVELOPMENT WORK
+
+### INTERNWIN — Internship Management Platform
+**MERN Stack**
+
+- Developed separate Admin and Student dashboards.
+- Integrated backend functionality and MongoDB data operations.
+- Improved backend access security by removing a hardcoded admin-key access path.
+
+### Blood Bank Management System
+**MERN Stack**
+
+- Implemented donor registration.
+- Developed blood-stock tracking.
+- Built blood-request management functionality.
+
+### UHV Cell Website — LGMIER
+**HTML | Bootstrap 5 | MySQL**
+
+- Developed a multi-page institutional website.
+- Integrated a MySQL-backed admin dashboard.
+- Implemented password hashing.
+
+### Freelance & Client Website Projects
+
+- Digiclimb
+- Digiconstro
+- Kajaria Eternity Studio — Mihir Ceramics
+
+---
+
+## 07 / PROFESSIONAL EXPERIENCE
+
+**Sumago Infotech**
+- Full Stack Developer Intern — MERN Stack (6 Months)
+- AWS Cloud Computing Intern
+
+**R3 Systems India Pvt. Ltd.**
+- Software Intern
+
+**SkyMind IT Training and Solutions**
+- Data Science Intern
+
+**Wisdom Sprouts IT Training Hub**
+- Full Stack Developer Intern — Java Development
+
+---
+
+## 08 / EDUCATION & RECOGNITION
+
+**B.E. Information Technology**
+
+Jawahar Education Society's Institute of Technology, Management & Research, Nashik
+
+Savitribai Phule Pune University
+
+- Expected Graduation: 2027
+- CGPA: **9.43 / 10** (through Semester VI)
+
+### Achievements
+
+- 🥈 Second Runner-Up — KBT Avinyathon 2026, State-Level Competition.
+- 🏆 First Position — Marathi Elocution, JIT Nashik, February 2026.
+
+### Certifications & Learning
+
+- AWS Academy Cloud Architecting — 60 Hours
+- AWS Academy + AICTE EduSkills Cloud Virtual Internship
+- Zscaler Zero Trust Cloud Security Virtual Internship
+- Android Developer Virtual Internship
+- Altair/RapidMiner — Machine Learning
+- Altair/RapidMiner — Data Engineering
+- Altair/RapidMiner — Platform Administration
+- NPTEL — Programming, Data Structures and Algorithms
+- NPTEL — Database Management Systems
+
+---
+
+## 09 / CURRENT ENGINEERING ROADMAP
+
+| Area | Direction |
+|---|---|
+| Full-Stack | Advanced MERN architecture |
+| Backend | Go services and API engineering |
+| Systems | Rust ownership, borrowing and FFI |
+| Databases | PostgreSQL internals and transaction safety |
+| Operating Systems | Memory, processes, threads and synchronization |
+| DSA | Advanced problem-solving in JavaScript |
+| Infrastructure | Docker, reliability and distributed systems |
+
+**My engineering principle:**
+
+Understand the abstraction. Investigate the implementation. Measure the trade-offs. Engineer the failure cases.
+
+---
+
+## 10 / CONNECT
+
+<div align="center">
+
+**Interested in backend infrastructure, systems engineering, database architecture or technically challenging software projects?**
+
+Let's connect and exchange engineering ideas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad-ramayane-34b48731b/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theharshadramayane-ship-IT)
+
+[![Email](https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshadramayane1398@gmail.com)
+
+**BUILD. UNDERSTAND. OPTIMIZE. REPEAT.**
+
+</div>
+
+---
+
+<div align="center">
+
+*Engineering is not just about making software work. It is about understanding why it works, when it fails, and how to make it dependable.*
+
+</div>
